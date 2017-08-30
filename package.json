@@ -1,0 +1,10 @@
+{
+  "name": "KalmanFilter",
+  "version": "0.0.1",
+  "dependencies": {
+    "gaussian": "^1.1.0",
+    "jssqlparser": "0.0.9",
+    "sylvester": "0.0.21",
+    "underscore": "^1.8.3"
+  }
+}
