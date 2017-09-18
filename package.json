@@ -2,8 +2,12 @@
   "name": "KalmanFilter",
   "version": "0.0.1",
   "dependencies": {
+    "file-system": "^2.2.2",
     "gaussian": "^1.1.0",
+    "install": "^0.10.1",
+    "jpeg-js": "^0.3.3",
     "jssqlparser": "0.0.9",
+    "npm": "^5.4.2",
     "sylvester": "0.0.21",
     "underscore": "^1.8.3"
   }
